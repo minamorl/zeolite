@@ -1,0 +1,4 @@
+*.gem
+Gemfile.lock
+.rubocop_cache/
+tmp/
