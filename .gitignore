@@ -1,4 +1,6 @@
 *.gem
+/.bundle/
+/vendor/
 Gemfile.lock
 .rubocop_cache/
 tmp/
